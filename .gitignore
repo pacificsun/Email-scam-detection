@@ -35,6 +35,7 @@ conda.tmp/
 *.ipr
 *.iws
 test-report.xml
+.ipynb_checkpoints/
 
 # default pytest duration files
 .test_durations
